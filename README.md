@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sukantongithub/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sukantongithub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sukantongithub/LeetCode/tree/master/0217-contains-duplicate) |
+| [1672-richest-customer-wealth](https://github.com/Sukantongithub/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sukantongithub/LeetCode/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Sukantongithub/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
