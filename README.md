@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sukantongithub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sukantongithub/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Sukantongithub/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Sukantongithub/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Sukantongithub/LeetCode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sukantongithub/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Sukantongithub/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sukantongithub/LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sukantongithub/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
